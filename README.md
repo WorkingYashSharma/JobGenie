@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/WorkingYashSharma/JobGenie/blob/main/preview/Account/image1.jpeg" alt="project-screenshot" width="600" height="400/">
+<img src="https://github.com/WorkingYashSharma/JobGenie/blob/main/preview/Account/image1.jpeg" alt="project-screenshot" width="400" height="600/">
 
   
   
