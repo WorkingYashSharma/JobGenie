@@ -10,6 +10,8 @@
 
 <h2>Project Screenshots:</h2>
 
+<h3>Account Screens</h2>
+
 <img src="https://github.com/WorkingYashSharma/JobGenie/blob/main/preview/Account/image1.jpeg" alt="project-screenshot" width="350" height="600/">
 
   
