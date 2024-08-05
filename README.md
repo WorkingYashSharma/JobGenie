@@ -7,11 +7,6 @@
 <h2>🚀 Demo</h2>
 
 [https://github.com/WorkingYashSharma/JobGenie/blob/main/preview/App%20Preview.mp4](https://github.com/WorkingYashSharma/JobGenie/blob/main/preview/App%20Preview.mp4)
-
-<h2>Project Screenshots:</h2>
-
-<img src="" alt="project-screenshot" width="400" height="400/">
-
   
   
 <h2>🧐 Features</h2>
