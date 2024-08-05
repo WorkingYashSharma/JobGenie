@@ -13,6 +13,8 @@
 <h3>Account Screens</h2>
 
 <img src="https://github.com/WorkingYashSharma/JobGenie/blob/main/preview/Account/image1.jpeg" alt="project-screenshot" width="350" height="600/">
+<img src="https://github.com/WorkingYashSharma/JobGenie/blob/main/preview/Account/image2.jpeg" alt="project-screenshot" width="350" height="600/">
+<img src="https://github.com/WorkingYashSharma/JobGenie/blob/main/preview/Account/image3.jpeg" alt="project-screenshot" width="350" height="600/">
 
   
   
